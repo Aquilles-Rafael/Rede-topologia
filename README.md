@@ -22,7 +22,8 @@ barramento, é fácil identificar pois é umas das topologias mais simples dentr
 Quando os dados são compartilhados em sequência num circulo fechado, obviamente é a topologia em anel.
 
 ## Diagrama D
-<img width="1023" height="668" alt="image" src="https://github.com/user-attachments/assets/f0769533-119c-4141-9eb0-7d0e3c2c45e6" />
+<img width="1015" height="649" alt="image" src="https://github.com/user-attachments/assets/cbf440b6-b070-471e-b079-5ea328fc64fc" />
+
 
 
 **Topologia identificada:** Malha, pelo formato e como todos os dispositivos estão conectados simultaneamente e com várias rotas conectadas .
